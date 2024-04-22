@@ -1,0 +1,12 @@
+.colored {
+    color: red;
+    font-size: 36px;
+}
+
+.blue-background {
+    background-color: blue;
+    color: white;
+}
+.bg-pink {
+    background-color: #ffc0cb; /* Lekki różowy kolor */
+}

@@ -1,0 +1,10 @@
+/* Stylizacja dla trybu ciemnego */
+.dark-theme {
+    background-color: #eeafaf;
+    color: #f01b1b;
+}
+
+/* Dodatkowa stylizacja */
+#toggleElement {
+    display: none;
+}
